@@ -1,0 +1,3 @@
+project=db_prepare_error
+test=rspec
+template=erb
